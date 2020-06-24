@@ -3,10 +3,10 @@ package main
 import "github.com/Tnze/CoolQ-Golang-SDK/cqp"
 
 //go:generate cqcfg -c .
-// cqp: 名称: GoDemo
+// cqp: 名称: Rondom-Pic
 // cqp: 版本: 1.0.0:1
-// cqp: 作者: Tnze
-// cqp: 简介: 一个超棒的Go语言插件Demo，它会回复你的私聊消息~
+// cqp: 作者: Liumik
+// cqp: 简介: 一个使用Golang编写的随机发送图片的CoolQ插件
 func main() { /*此处应当留空*/ }
 
 func init() {
