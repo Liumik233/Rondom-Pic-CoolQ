@@ -10,7 +10,7 @@ import "github.com/Tnze/CoolQ-Golang-SDK/cqp"
 func main() { /*此处应当留空*/ }
 
 func init() {
-	cqp.AppID = "me.cqp.tnze.demo" // TODO: 修改为这个插件的ID
+	cqp.AppID = "top.atori.ronpic" // TODO: 修改为这个插件的ID
 	cqp.PrivateMsg = onPrivateMsg
 }
 
